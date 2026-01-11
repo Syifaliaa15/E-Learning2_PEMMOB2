@@ -5,7 +5,7 @@ A new Flutter project.
 ## 📺 Demo Aplikasi Mobile
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/Uploading WhatsApp Video 2026-01-11 at 18.56.25.mp4…" width="320" autoplay loop muted playsinline controls>
+  <video src="WhatsApp Video 2026-01-11 at 18.56.25.mp4…" width="320" autoplay loop muted playsinline controls>
   </video>
 </div>
 
@@ -13,6 +13,6 @@ A new Flutter project.
 
 ## 🛠️ Tech Stack
 * Flutter
-* Firebase/API
+* Local Storage
 * Dart
 
