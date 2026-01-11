@@ -12,12 +12,13 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-  <div align="center">
-  <video src="Uploading WhatsApp Video 2026-01-11 at 18.56.25.mp4…" width="800" autoplay loop muted playsinline>
+<div align="center">
+  <h3>📱 Demo Aplikasi e_learning2</h3>
+  <video src="Uploading WhatsApp Video 2026-01-11 at 18.56.25.mp4…" width="320" height="auto" controls autoplay loop muted playsinline>
+    Browser Anda tidak mendukung tag video.
   </video>
+  <p><i>Cuplikan demo fitur utama aplikasi Flutter.</i></p>
 </div>
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
